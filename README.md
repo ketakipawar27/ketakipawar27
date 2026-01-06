@@ -1,68 +1,150 @@
-# ketakipawar27
-
-Welcome — this repository is my GitHub profile repository for the user `ketakipawar27`. I use it to showcase projects, demos, utilities, and other work I want to highlight on my profile.
-
-## Table of contents
-- About
-- Tech & languages
-- Projects
-- How to run / use
-- Contributing
-- Contact
-- License
-
-## About
-Hi — I'm `ketakipawar27`. This repository acts as a central place to showcase code samples, small projects, notes, and links to other repositories. Use this README as the front page for visitors who want to learn more about my work.
-
-## Tech & languages
-This account uses a mix of languages and tools across different repositories. For the most accurate language breakdown, see the repository language summary shown by GitHub on this repository's main page.
-
-Commonly used technologies (examples — update as needed):
-- JavaScript / TypeScript
-- Python
-- HTML / CSS
-- Bash
-
-## Projects
-Below are a few highlights. Add, remove, or edit the list to point to real projects in this account.
-
-- Project One — short description. Link: https://github.com/ketakipawar27/example-project-1
-- Project Two — short description. Link: https://github.com/ketakipawar27/example-project-2
-
-(Replace the above placeholders with actual project names and links.)
-
-## How to run / use
-Clone this repository locally:
-
-```
-git clone https://github.com/ketakipawar27/ketakipawar27.git
-cd ketakipawar27
-```
-
-Then open or inspect the files you want to try. If a project has a README of its own, follow the instructions in that project's folder.
-
-## Contributing
-If you'd like to contribute or suggest changes:
-1. Fork the repository
-2. Create a feature branch: `git checkout -b my-feature`
-3. Make your changes and commit them
-4. Push to your fork and open a Pull Request
-
-Keep contributions small and focused; include tests or a short description of manual testing when applicable.
-
-## Contact
-- GitHub: https://github.com/ketakipawar27
-
-Include additional contact information here if you want (email, LinkedIn, website).
-
-## License
-This repository does not currently include a LICENSE file. If you want a permissive license applied (for example MIT), add a LICENSE file or tell me and I can add one for you.
 
 ---
 
-If you'd like, I can:
-- Add links to specific projects from this account
-- Generate GitHub profile/README badges (languages, stars, followers)
-- Add an explicit license file (MIT/Apache-2.0/etc.)
+# 👋 Hi, I’m Ketaki Pawar
 
-Tell me what you'd like me to add or change and I'll update the README accordingly.
+🎓 Final-year **B.E. Artificial Intelligence & Data Science** student (2026)
+🌐 **Web Developer | Android Developer | Full-Stack Developer | Python/Django**
+🚀 Passionate about building scalable, real-world web and mobile applications
+
+---
+
+## 💡 About Me
+
+* Engineering student specializing in **AI & Data Science**
+* Primary interest in **Web Development** with strong full-stack fundamentals
+* Hands-on experience in **Python, Django, REST APIs, React (basic)**
+* Android development experience using **Kotlin & Jetpack Compose**
+* Strong understanding of **Clean Architecture, MVVM, and scalable design**
+* Experience working with **databases, APIs, and real-world datasets**
+* Always learning and improving through practical projects
+
+---
+
+## 🛠️ Technical Skills
+
+### 🌐 Web Development (Primary)
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, TypeScript (basic)
+* Responsive UI Design
+
+### ⚙️ Backend & Full-Stack
+
+* Python
+* Django & Django REST Framework
+* RESTful API Development
+
+### 📱 Android Development
+
+* Kotlin
+* Jetpack Compose
+* Android SDK
+* ViewModel & State Management
+* Compose Navigation
+* Clean Architecture + MVVM
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### 📊 Data & Analytics (Foundational)
+
+* Python (NumPy, Pandas)
+* Data Cleaning & Analysis
+* Power BI (Beginner – learning)
+
+### 🔧 Tools & Platforms
+
+* Git & GitHub
+* Android Studio
+* VS Code, PyCharm
+* Windows & Linux
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 AI Threat Detection System (Final-Year Project – In Progress)
+
+* Full-stack web platform for security threat monitoring
+* Frontend: React.js + TypeScript + Tailwind CSS
+* Backend: Django REST API + PostgreSQL
+* Focus on scalable architecture and secure APIs
+
+🔗 GitHub: [https://github.com/ketakipawar27/unveilthreatai](https://github.com/ketakipawar27/unveilthreatai)
+
+---
+
+### 🌐 E-Book Store Website
+
+* Full-stack Django e-commerce application
+* User authentication, cart management
+* Razorpay payment gateway integration
+
+---
+
+### 🏏 Cricbuzz Live Android App
+
+* Android app built with Kotlin & Jetpack Compose
+* Live cricket scores, match details, scorecards, squads
+* Clean Architecture + MVVM
+
+🔗 Repository: [https://github.com/ketakipawar27/cricbuzz-live-android](https://github.com/ketakipawar27/cricbuzz-live-android)
+
+---
+
+### 🤖 HealthBot – AI-Powered Chatbot
+
+* Python + Streamlit based chatbot
+* Secure authentication and chat history
+* Real-time conversational UI
+
+---
+
+### 🏷️ RFID Attendance Management System
+
+* Django-based automated attendance system
+* RFID integration, dashboards, and reporting
+
+---
+
+## 💼 Experience
+
+**RPA Intern – ProAzure Technologies Pvt. Ltd., Pune**
+Dec 2024 – Jan 2025
+
+* Worked on automation workflows and structured process analysis
+* Gained exposure to enterprise-scale systems and data handling
+* Attended expert sessions on AI, ML, DevOps, and automation
+
+---
+
+## 📜 Certifications
+
+* NPTEL – Python for Data Science (Elite)
+* Software Testing
+
+---
+
+## 🎯 Career Goals
+
+* Build a strong career as a **Web & Full-Stack Developer**
+* Develop scalable and maintainable applications
+* Work on impactful real-world products
+* Grow into a professional software engineer
+
+---
+
+## 🤝 Let’s Connect
+
+* GitHub: [https://github.com/ketakipawar27](https://github.com/ketakipawar27)
+* Email: [ketakipawar877@gmail.com](mailto:ketakipawar877@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile — feel free to explore my projects and repositories!*
+
+
