@@ -86,6 +86,7 @@
 * Integrated MySQL database using JDBC
 * ocused on structured backend logic and data consistency
 
+🔗 GitHub: [https://github.com/ketakipawar27/hostel_management](https://github.com/ketakipawar27/hostel_management) 
 ---
 
 ### 🏏 Cricbuzz Live Android App
@@ -104,6 +105,7 @@
 * Secure authentication and chat history
 * Real-time conversational UI
 
+🔗 GitHub: [https://github.com/ketakipawar27/healthbot](https://github.com/ketakipawar27/healthbot) 
 ---
 
 
