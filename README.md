@@ -78,11 +78,13 @@
 
 ---
 
-### 🌐 E-Book Store Website
+### 🏨 Hostel Management System
 
-* Full-stack Django e-commerce application
-* User authentication, cart management
-* Razorpay payment gateway integration
+* Web-based application developed using Java, JSP, and Servlets
+* Implemented student registration, room allocation, and fee management
+* uilt admin dashboards with CRUD operations
+* Integrated MySQL database using JDBC
+* ocused on structured backend logic and data consistency
 
 ---
 
@@ -104,12 +106,6 @@
 
 ---
 
-### 🏷️ RFID Attendance Management System
-
-* Django-based automated attendance system
-* RFID integration, dashboards, and reporting
-
----
 
 ## 💼 Experience
 
